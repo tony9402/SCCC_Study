@@ -13,55 +13,58 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\1일차">
+      <UniqueIdentifier>{2250072a-99be-4d64-a32c-b69dc842ab7c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="10828.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="10799.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="10845.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="10866.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="1927.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="2750.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="10809.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="1157.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="11279.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="1764.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="11651.cpp">
+      <Filter>소스 파일\1일차</Filter>
     </ClCompile>
     <ClCompile Include="1157(map).cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\1일차</Filter>
     </ClCompile>
-    <ClCompile Include="11651.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="1157.cpp">
+      <Filter>소스 파일\1일차</Filter>
     </ClCompile>
-    <ClCompile Include="10814.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="11650.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="1764.cpp">
+      <Filter>소스 파일\1일차</Filter>
     </ClCompile>
     <ClCompile Include="1920.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\1일차</Filter>
+    </ClCompile>
+    <ClCompile Include="1927.cpp">
+      <Filter>소스 파일\1일차</Filter>
+    </ClCompile>
+    <ClCompile Include="2750.cpp">
+      <Filter>소스 파일\1일차</Filter>
     </ClCompile>
     <ClCompile Include="2910.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\1일차</Filter>
+    </ClCompile>
+    <ClCompile Include="10799.cpp">
+      <Filter>소스 파일\1일차</Filter>
+    </ClCompile>
+    <ClCompile Include="10809.cpp">
+      <Filter>소스 파일\1일차</Filter>
+    </ClCompile>
+    <ClCompile Include="10814.cpp">
+      <Filter>소스 파일\1일차</Filter>
+    </ClCompile>
+    <ClCompile Include="10828.cpp">
+      <Filter>소스 파일\1일차</Filter>
+    </ClCompile>
+    <ClCompile Include="10845.cpp">
+      <Filter>소스 파일\1일차</Filter>
+    </ClCompile>
+    <ClCompile Include="10866.cpp">
+      <Filter>소스 파일\1일차</Filter>
+    </ClCompile>
+    <ClCompile Include="11279.cpp">
+      <Filter>소스 파일\1일차</Filter>
+    </ClCompile>
+    <ClCompile Include="11650.cpp">
+      <Filter>소스 파일\1일차</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
