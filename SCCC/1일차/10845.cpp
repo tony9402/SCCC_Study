@@ -16,7 +16,7 @@ int main()
 	for (; n--;)
 	{
 		string input;
-		cin >> input;a
+		cin >> input;
 		if (!input.compare("push"))
 		{
 			int num;

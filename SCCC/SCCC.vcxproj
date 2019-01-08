@@ -18,6 +18,38 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="1996.cpp" />
+    <ClCompile Include="1일차\10799.cpp" />
+    <ClCompile Include="1일차\10809.cpp" />
+    <ClCompile Include="1일차\10814.cpp" />
+    <ClCompile Include="1일차\10828.cpp" />
+    <ClCompile Include="1일차\10845.cpp" />
+    <ClCompile Include="1일차\10866.cpp" />
+    <ClCompile Include="1일차\11279.cpp" />
+    <ClCompile Include="1일차\1157.cpp" />
+    <ClCompile Include="1일차\11650.cpp" />
+    <ClCompile Include="1일차\11651.cpp" />
+    <ClCompile Include="1일차\1764.cpp" />
+    <ClCompile Include="1일차\1920.cpp" />
+    <ClCompile Include="1일차\1927.cpp" />
+    <ClCompile Include="1일차\2750.cpp" />
+    <ClCompile Include="1일차\2910.cpp" />
+    <ClCompile Include="2160.cpp" />
+    <ClCompile Include="2615.cpp" />
+    <ClCompile Include="2804.cpp" />
+    <ClCompile Include="2일차\1331.cpp" />
+    <ClCompile Include="2일차\14710.cpp" />
+    <ClCompile Include="2일차\15707.cpp" />
+    <ClCompile Include="2일차\1855.cpp" />
+    <ClCompile Include="2일차\2037.c" />
+    <ClCompile Include="2일차\2823.cpp" />
+    <ClCompile Include="2일차\4606.cpp" />
+    <ClCompile Include="2일차\5612.cpp" />
+    <ClCompile Include="2일차\5671.cpp" />
+    <ClCompile Include="2일차\9226.cpp" />
+    <ClCompile Include="4659.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
     <ProjectGuid>{BB2A5097-B3F3-46AC-B75F-9BFC90D384EA}</ProjectGuid>
@@ -138,24 +170,6 @@
       <SubSystem>Console</SubSystem>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <ClCompile Include="10799.cpp" />
-    <ClCompile Include="10809.cpp" />
-    <ClCompile Include="10814.cpp" />
-    <ClCompile Include="10828.cpp" />
-    <ClCompile Include="10845.cpp" />
-    <ClCompile Include="10866.cpp" />
-    <ClCompile Include="11279.cpp" />
-    <ClCompile Include="1157(map).cpp" />
-    <ClCompile Include="1157.cpp" />
-    <ClCompile Include="11650.cpp" />
-    <ClCompile Include="11651.cpp" />
-    <ClCompile Include="1764.cpp" />
-    <ClCompile Include="1920.cpp" />
-    <ClCompile Include="1927.cpp" />
-    <ClCompile Include="2750.cpp" />
-    <ClCompile Include="2910.cpp" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
