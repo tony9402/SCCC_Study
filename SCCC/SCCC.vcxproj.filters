@@ -112,5 +112,20 @@
     <ClCompile Include="2615.cpp">
       <Filter>소스 파일\2일차</Filter>
     </ClCompile>
+    <ClCompile Include="2일차\1996.cpp">
+      <Filter>소스 파일\2일차</Filter>
+    </ClCompile>
+    <ClCompile Include="2일차\2160.cpp">
+      <Filter>소스 파일\2일차</Filter>
+    </ClCompile>
+    <ClCompile Include="2일차\2615.cpp">
+      <Filter>소스 파일\2일차</Filter>
+    </ClCompile>
+    <ClCompile Include="2일차\2804.cpp">
+      <Filter>소스 파일\2일차</Filter>
+    </ClCompile>
+    <ClCompile Include="2일차\4659.cpp">
+      <Filter>소스 파일\2일차</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

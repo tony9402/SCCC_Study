@@ -42,9 +42,14 @@
     <ClCompile Include="2일차\14710.cpp" />
     <ClCompile Include="2일차\15707.cpp" />
     <ClCompile Include="2일차\1855.cpp" />
+    <ClCompile Include="2일차\1996.cpp" />
     <ClCompile Include="2일차\2037.c" />
+    <ClCompile Include="2일차\2160.cpp" />
+    <ClCompile Include="2일차\2615.cpp" />
+    <ClCompile Include="2일차\2804.cpp" />
     <ClCompile Include="2일차\2823.cpp" />
     <ClCompile Include="2일차\4606.cpp" />
+    <ClCompile Include="2일차\4659.cpp" />
     <ClCompile Include="2일차\5612.cpp" />
     <ClCompile Include="2일차\5671.cpp" />
     <ClCompile Include="2일차\9226.cpp" />
