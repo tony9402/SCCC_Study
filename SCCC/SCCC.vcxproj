@@ -37,6 +37,7 @@
     <ClCompile Include="1일차\2910.cpp" />
     <ClCompile Include="2160.cpp" />
     <ClCompile Include="2615.cpp" />
+    <ClCompile Include="2641.cpp" />
     <ClCompile Include="2804.cpp" />
     <ClCompile Include="2일차\1331.cpp" />
     <ClCompile Include="2일차\14710.cpp" />
