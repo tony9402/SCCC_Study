@@ -19,6 +19,12 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="1026.cpp" />
+    <ClCompile Include="11279.cpp" />
+    <ClCompile Include="1138.cpp" />
+    <ClCompile Include="11652.cpp" />
+    <ClCompile Include="1213.cpp" />
+    <ClCompile Include="1927.cpp" />
     <ClCompile Include="1996.cpp" />
     <ClCompile Include="1일차\10799.cpp" />
     <ClCompile Include="1일차\10809.cpp" />
@@ -38,6 +44,9 @@
     <ClCompile Include="2160.cpp" />
     <ClCompile Include="2615.cpp" />
     <ClCompile Include="2641.cpp" />
+    <ClCompile Include="2750.cpp" />
+    <ClCompile Include="2751%28merge%29.cpp" />
+    <ClCompile Include="2751%28Selection%29.cpp" />
     <ClCompile Include="2804.cpp" />
     <ClCompile Include="2일차\1331.cpp" />
     <ClCompile Include="2일차\14710.cpp" />
@@ -54,6 +63,8 @@
     <ClCompile Include="2일차\5612.cpp" />
     <ClCompile Include="2일차\5671.cpp" />
     <ClCompile Include="2일차\9226.cpp" />
+    <ClCompile Include="3047.cpp" />
+    <ClCompile Include="4158.cpp" />
     <ClCompile Include="4659.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">

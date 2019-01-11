@@ -20,6 +20,9 @@
     <Filter Include="소스 파일\2일차">
       <UniqueIdentifier>{a9c1cb39-01d7-488f-9064-d73468904b2b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\3일차">
+      <UniqueIdentifier>{1879db24-0ab2-4605-bc42-a02bb0127545}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1일차\1157.cpp">
@@ -129,6 +132,39 @@
     </ClCompile>
     <ClCompile Include="2641.cpp">
       <Filter>소스 파일\2일차</Filter>
+    </ClCompile>
+    <ClCompile Include="1026.cpp">
+      <Filter>소스 파일\3일차</Filter>
+    </ClCompile>
+    <ClCompile Include="1138.cpp">
+      <Filter>소스 파일\3일차</Filter>
+    </ClCompile>
+    <ClCompile Include="1213.cpp">
+      <Filter>소스 파일\3일차</Filter>
+    </ClCompile>
+    <ClCompile Include="1927.cpp">
+      <Filter>소스 파일\3일차</Filter>
+    </ClCompile>
+    <ClCompile Include="2750.cpp">
+      <Filter>소스 파일\3일차</Filter>
+    </ClCompile>
+    <ClCompile Include="2751%28merge%29.cpp">
+      <Filter>소스 파일\3일차</Filter>
+    </ClCompile>
+    <ClCompile Include="2751%28Selection%29.cpp">
+      <Filter>소스 파일\3일차</Filter>
+    </ClCompile>
+    <ClCompile Include="3047.cpp">
+      <Filter>소스 파일\3일차</Filter>
+    </ClCompile>
+    <ClCompile Include="4158.cpp">
+      <Filter>소스 파일\3일차</Filter>
+    </ClCompile>
+    <ClCompile Include="11279.cpp">
+      <Filter>소스 파일\3일차</Filter>
+    </ClCompile>
+    <ClCompile Include="11652.cpp">
+      <Filter>소스 파일\3일차</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
